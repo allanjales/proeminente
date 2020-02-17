@@ -107,6 +107,7 @@ nav{
 	-webkit-transition-duration: 0.2s;
 	transition-duration: 0.2s;
 	display: none;
+    user-select: none;
 	}
 	
 #botao:hover{cursor: pointer;}
